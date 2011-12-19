@@ -1,0 +1,14 @@
+translation.hpi
+maven-plugin
+ant
+ssh-slaves
+translation
+ant.hpi
+javadoc
+javadoc.hpi
+subversion
+ssh-slaves.hpi
+cvs
+maven-plugin.hpi
+cvs.hpi
+subversion.hpi

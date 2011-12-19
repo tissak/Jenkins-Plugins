@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: kohsuke
+Build-Jdk: 1.6.0_26
+Extension-Name: github
+Implementation-Title: github
+Implementation-Version: 0.8
+Group-Id: com.coravy.hudson.plugins.github
+Short-Name: github
+Long-Name: GitHub plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Github+Plugin
+Plugin-Version: 0.8
+Hudson-Version: 1.400
+Plugin-Dependencies: git:1.1.12
+Plugin-Developers: Kohsuke Kawaguchi:kohsuke:,Stefan Saasen:juretta:
+
